@@ -23,3 +23,7 @@ L'application fonctionne selon une architecture simple centrée sur la gestion d
 ├── footer.php       # Contient le bas de page HTML avec la date dynamique PHP
 ├── index.php        # Fichier principal : contient la logique PHP (POST, fonctions, stockage) et le formulaire HTML
 └── messages.txt     # Fichier texte servant de base de données minimale pour stocker l'historique
+
+
+## Démo en ligne
+🔗 [Accéder au Livre d'Or en direct](http://littlephp.42web.io)
